@@ -1,0 +1,139 @@
+2025-05-26 15:20:50,146 - INFO - Iniciando processamento de 2 arquivos...
+2025-05-26 15:20:50,147 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:20:50,160 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:20:50,259 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:20:50,261 - INFO - Processando: Exemplo NF 2.pdf
+2025-05-26 15:20:50,272 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:20:50,541 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:20:51,031 - INFO - \u2705 Extração concluída. 2 registros salvos em: c:\Users\Vitor\automacao_conferencia_nf\saida\relatorios_gerados\dados_extraidos_20250526_1520.xlsx
+2025-05-26 15:26:44,806 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:26:44,806 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:26:44,806 - ERROR - Erro fatal no processamento: name 'processar_pdf' is not defined
+2025-05-26 15:28:00,376 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:28:00,376 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:28:00,376 - ERROR - Erro fatal no processamento: name 'processar_pdf' is not defined
+2025-05-26 15:35:23,218 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:35:23,219 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:35:23,220 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:35:23,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:35:23,340 - INFO - 
+=== Conteúdo do PDF Exemplo NF 1.pdf ===
+2025-05-26 15:35:23,340 - INFO - PREFEITURA DO MUNICIPIO DE SÃO PAULO Numero da Nota
+726072
+Data e Hora da Emissão
+SECRETARIA MUNICIPAL DA FAZENDA
+17/04/2025 17:52:00
+NOTA FISCAL ELETRONICA DE SERVIÇOS - NFS-e
+Código de Verificação
+202504174988631000111 RPS N° 726.072 SérieES , emitido em17/04/2025 2NZDXV5Y
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 04.988.631/0001-11 Inscrição Municipal 49675869
+Nome/Razão Social:SKYTEF SOLUÇÕES EM CAPTURA DE TRANSAÇÕES LTDA
+Endereço: R SAO TOME 119 VILA OLIMPIA CEP: 04551-080
+Municipio: SAO PAULO UF: SP
+TOMADOR DE SERVIÇOS
+Nome/Razão Social:BRASILIA AIRPORT RESTAURANTES LTDA
+C.P.F. / C.N.P.J3.4.875.169/0005-30 Inscrição Municipal:
+Endereço: AER PRESIDENTE JUSCELINO KUBISTSCHECK, 0 LOJA 1228 PIER LSAUGL OA RSEUAL RESTRITA CEP: 71608-900
+Municipio: Brasilia UF: DF E-mail:Leandro.lacerda@brazilairr.com.br
+INTERMEDIARIO DE SERVIÇOS
+C.P.F. / C.N.P.J. --- Nome/Razão Social: ---
+DISCRIMINAÇÃO DOS SERVIÇOS
+1.05-Licenciamento ou cessão de direito de uso de programas de computação.
+LICENCIAMENTO DO USO ...
+2025-05-26 15:35:23,637 - INFO - \u2705 Extração concluída. 1 registros salvos em: c:\Users\Vitor\automacao_conferencia_nf\saida\relatorios_gerados\dados_extraidos_20250526_1535.xlsx
+2025-05-26 15:41:57,178 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:41:57,178 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:41:57,180 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:41:57,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:41:57,284 - INFO - 
+=== Conteúdo do PDF Exemplo NF 1.pdf ===
+2025-05-26 15:41:57,284 - INFO - PREFEITURA DO MUNICIPIO DE SÃO PAULO Numero da Nota
+726072
+Data e Hora da Emissão
+SECRETARIA MUNICIPAL DA FAZENDA
+17/04/2025 17:52:00
+NOTA FISCAL ELETRONICA DE SERVIÇOS - NFS-e
+Código de Verificação
+202504174988631000111 RPS N° 726.072 SérieES , emitido em17/04/2025 2NZDXV5Y
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 04.988.631/0001-11 Inscrição Municipal 49675869
+Nome/Razão Social:SKYTEF SOLUÇÕES EM CAPTURA DE TRANSAÇÕES LTDA
+Endereço: R SAO TOME 119 VILA OLIMPIA CEP: 04551-080
+Municipio: SAO PAULO UF: SP
+TOMADOR DE SERVIÇOS
+Nome/Razão Social:BRASILIA AIRPORT RESTAURANTES LTDA
+C.P.F. / C.N.P.J3.4.875.169/0005-30 Inscrição Municipal:
+Endereço: AER PRESIDENTE JUSCELINO KUBISTSCHECK, 0 LOJA 1228 PIER LSAUGL OA RSEUAL RESTRITA CEP: 71608-900
+Municipio: Brasilia UF: DF E-mail:Leandro.lacerda@brazilairr.com.br
+INTERMEDIARIO DE SERVIÇOS
+C.P.F. / C.N.P.J. --- Nome/Razão Social: ---
+DISCRIMINAÇÃO DOS SERVIÇOS
+1.05-Licenciamento ou cessão de direito de uso de programas de computação.
+LICENCIAMENTO DO USO ...
+2025-05-26 15:41:57,543 - INFO - \u2705 Extração concluída. 1 registros salvos em: c:\Users\Vitor\automacao_conferencia_nf\saida\relatorios_gerados\dados_extraidos_20250526_1541.xlsx
+2025-05-26 15:55:18,952 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:55:18,952 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:55:18,954 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:55:19,060 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:55:19,068 - ERROR - Erro fatal no processamento: "None of [Index(['arquivo', 'numero_nota', 'data_emissao', 'cnpj_prestador',\n       'cnpj_tomador', 'valor_total', 'base_calculo', 'iss', 'irrf', 'inss',\n       'cofins', 'pis'],\n      dtype='object')] are in the [columns]"
+2025-05-26 15:55:41,852 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:55:41,852 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:55:41,854 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:55:42,000 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:55:42,001 - ERROR - Erro fatal no processamento: "None of [Index(['arquivo', 'numero_nota', 'data_emissao', 'cnpj_prestador',\n       'cnpj_tomador', 'valor_total', 'base_calculo', 'iss', 'irrf', 'inss',\n       'cofins', 'pis'],\n      dtype='object')] are in the [columns]"
+2025-05-26 15:58:20,776 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:58:20,776 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:58:20,778 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:58:20,894 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:58:20,898 - ERROR - Erro fatal no processamento: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "c:\Users\Vitor\automacao_conferencia_nf\scripts\extrator_nf.py", line 174, in main
+    registro_completo = {col: registro.get(col, None) for col in colunas_esperadas}
+                              ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2025-05-26 15:59:40,412 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 15:59:40,413 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 15:59:40,414 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:59:40,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 15:59:40,524 - ERROR - Erro fatal no processamento: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "c:\Users\Vitor\automacao_conferencia_nf\scripts\extrator_nf.py", line 174, in main
+    registro_completo = {col: registro.get(col, None) for col in colunas_esperadas}
+                              ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2025-05-26 16:11:28,638 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:11:28,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:11:28,748 - WARNING - Valor não numérico encontrado: 17/04/2025
+2025-05-26 16:19:06,526 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 16:19:06,526 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 16:19:06,528 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:19:06,635 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:19:06,636 - ERROR - Erro ao processar c:\Users\Vitor\automacao_conferencia_nf\entrada\notas_pdf\Exemplo NF 1.pdf: name 'limpar_valor' is not defined
+2025-05-26 16:19:06,636 - WARNING - Nenhum dado válido foi extraído dos arquivos.
+2025-05-26 16:19:21,245 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 16:19:21,245 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 16:19:21,247 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:19:21,356 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:19:21,357 - ERROR - Erro ao processar c:\Users\Vitor\automacao_conferencia_nf\entrada\notas_pdf\Exemplo NF 1.pdf: name 'limpar_valor' is not defined
+2025-05-26 16:19:21,357 - WARNING - Nenhum dado válido foi extraído dos arquivos.
+2025-05-26 16:29:57,472 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 16:29:57,472 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 16:29:57,474 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:29:57,581 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 16:29:57,890 - INFO - \u2705 Extração concluída. 1 registros salvos em: c:\Users\Vitor\automacao_conferencia_nf\saida\relatorios_gerados\dados_extraidos_20250526_1629.xlsx
+2025-05-26 19:19:55,333 - INFO - Iniciando processamento de 1 arquivos...
+2025-05-26 19:19:55,334 - INFO - Processando: Exemplo NF 1.pdf
+2025-05-26 19:19:55,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:19:55,472 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:19:55,979 - INFO - \u2705 Extração concluída. 1 registros salvos em: c:\Users\Vitor\automacao_conferencia_nf\saida\relatorios_gerados\dados_extraidos_20250526_1919.xlsx
+2025-05-26 19:24:27,195 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:24:27,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:24:27,328 - WARNING - Valor não numérico encontrado: 17/04/2025
+2025-05-26 19:30:38,531 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:30:38,678 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:30:38,679 - WARNING - Valor não numérico encontrado: 17/04/2025
+2025-05-26 19:51:03,024 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:51:03,163 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-26 19:51:03,165 - WARNING - Valor não numérico: 17/04/2025
+2025-05-26 19:51:03,610 - INFO - Relatório gerado: c:\Users\Vitor\automacao_conferencia_nf\saida\relatorios_gerados\dados_extraidos_20250526_1951.xlsx
