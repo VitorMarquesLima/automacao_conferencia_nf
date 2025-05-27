@@ -1,0 +1,1 @@
+Projeto de automação fiscal desenvolvido em Python para extração, validação e conferência de Notas Fiscais de Serviço (PDF) com relatórios do ERP TOTVS RM. Envolve processamento de documentos, regex, manipulação de Excel e geração de relatórios automatizados.
